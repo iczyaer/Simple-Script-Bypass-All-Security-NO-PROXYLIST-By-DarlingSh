@@ -12,7 +12,7 @@ To use this script you need GOLANG on your VPS or PC ( yum install go for skiidi
 
 # Command Script #
 
-3: Exemple: ./DarlingBypass.go -endpoint https://www.nextgen-down.io -requestsPerSecond 999 -duration 500 -timeout 6000 -maxRetry 20 -report report.json
+3: Exemple: ./darling -endpoint https://www.nextgen-down.io -requestsPerSecond 999 -duration 500 -timeout 6000 -maxRetry 20 -report report.json
 
 if you have question tel me :
 
