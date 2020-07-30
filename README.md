@@ -6,7 +6,7 @@
 
 To use this script you need GOLANG on your VPS or PC ( yum install go for skiidies )
 
-1: FIRST install node js yum install go or apt install go
+1: FIRST install yum install go or apt install go
 
 2: after install golang execute this script with this command
 
