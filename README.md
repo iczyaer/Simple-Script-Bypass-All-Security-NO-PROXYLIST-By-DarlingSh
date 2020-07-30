@@ -1,23 +1,20 @@
-# Script-HTTP-GET
+# Script-HTTP-GET ONLY ( soon i added POST PUT AND CRASH )
 
-# Coded By Serpico and Recoded By Sockie And UmbrellaSecurityTeam #
+# Coded By Sockie And UmbrellaSecurityTeam #
 
 # HELP ME #
 
-To use this script you need NODEJS and NPM on your vps or PC ( because you are hacker xD )
+To use this script you need GOLANG on your VPS or PC ( yum install go for skiidies )
 
-1: FIRST install node js yum install nodejs or apt install nodejs
+1: FIRST install node js yum install go or apt install go
 
-2: after install nodejs install npm command: apt install npm or yum install npm
-
-3: to use this script you need files proxies.txt and put on this files all you proxies ( HTTPS + HTTPS ) 
+2: after install golang execute this script with this command
 
 # Command Script #
-To Run the script.
 
-Command: node botnet.js http://exemple.com proxies.txt 300
+3: Exemple: ./DarlingBypass.go -endpoint https://www.nextgen-down.io -requestsPerSecond 999 -duration 500 -timeout 6000 -maxRetry 20 -report report.json
 
-if you have question tel me 
+if you have question tel me :
 
-# Nulled Community #
-https://www.nulled.to/topic/1028722-layer-7-http-get-nodejs-with-proxies/
+TELEGRAM: @DarlingSh
+
